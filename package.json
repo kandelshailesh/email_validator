@@ -1,6 +1,6 @@
 {
-  "name": "verify_email",
-  "version": "1.0.0",
+  "name": "@shaileshkandel123/match_email",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {

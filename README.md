@@ -16,7 +16,7 @@ Install the dependencies .
 ### For single email
 
 #### testemail() function is used.
-```sh
+```javascript
 const email_match = require('@shaileshkandel123/match_email');
 //Test Email 
 const email1 = "shaileshkandel123@gmail.com"
@@ -28,7 +28,7 @@ const result2 = email_match.testemail(email2); // result1 = false
 
 ### For multiple email
 #### testmultipleemail() function is used.
-```sh
+```javascript
 const email_match = require('@shaileshkandel123/match_email');
 //Test Email 
 const email =["sha@gmail.com","123shaileshkandel123@gmail.com",".shaileshkandel123@gmail.com"];

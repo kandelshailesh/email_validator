@@ -18,6 +18,11 @@ multiple_result.push(testemail(result))
 return multiple_result;
 }
 
+module.exports = {
+    testemail,
+    testmultipleemail
+}
+
 // var email = ["sha@gmail.com","123shaileshkandel123@gmail.com"];
 // var result =  testmultipleemail(email);
 // console.log(result);
